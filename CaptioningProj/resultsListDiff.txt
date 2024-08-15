@@ -1,0 +1,542 @@
+a		+14 YT
+able		+1 PT
+about		+1 PT
+acts		+1 PT - ZERO
+actually		+1 PT
+ad		+1 PT - ZERO
+addition		+1 PT - ZERO
+after		+1 PT
+afterwards		+1 PT - ZERO
+again		+2 PT
+agrowill		+1 PT - ZERO
+ahead		+1 YT
+all		+3 YT
+almost		+1 YT - ZERO
+along		+2 YT
+alright		+1 YT - ZERO
+also		+2 YT
+although		+1 PT - ZERO
+always		+1 YT
+am		+1 YT
+amane		+1 PT - ZERO
+amazed		+1 PT - ZERO
+amazing		+1 YT - ZERO
+an		+4 YT
+and		+13 PT
+angled		+1 YT - ZERO
+anglophiles		+1 PT - ZERO
+animal		+1 PT - ZERO
+another		+2 YT
+answer		+3 YT
+any		+1 YT
+anything		+2 YT
+anyway		+1 YT
+arbutus		+1 YT - ZERO
+are		+2 PT
+around		+1 PT
+as		+4 PT
+ask		+2 PT
+asked		+2 YT
+asks		+1 YT - ZERO
+ass		+1 PT - ZERO
+assume		+1 PT
+at		+1 PT
+attendant		+1 YT - ZERO
+b		+-142 YT
+back		+23 YT
+background		+1 PT - ZERO
+backpack		+1 YT - ZERO
+backup		+-3 PT
+bad		+0 YT
+bar		+1 YT - ZERO
+barbara		+1 PT - ZERO
+barred		+1 PT - ZERO
+bat		+1 YT - ZERO
+be		+72 YT
+bear		+2 YT - ZERO
+because		+26 YT
+bet		+3 YT
+big		+-2 PT
+bill		+1 PT - ZERO
+bloc		+1 PT - ZERO
+block		+0 YT
+blocks		+-5 YT
+blog		+1 PT - ZERO
+book		+1 YT - ZERO
+bought		+1 PT - ZERO
+boxes		+1 YT - ZERO
+bring		+1 PT - ZERO
+brought		+1 YT - ZERO
+budget		+1 PT - ZERO
+build		+-4 YT
+but		+52 YT
+bye		+1 YT - ZERO
+c		+7 YT - ZERO
+c++		+1 PT - ZERO
+cac		+1 PT - ZERO
+call		+27 PT
+called		+18 YT
+calling		+4 YT
+can		+42 YT
+card		+1 PT - ZERO
+cases		+1 PT - ZERO
+causing		+1 PT - ZERO
+cbd		+1 PT - ZERO
+change		+4 YT
+chern		+1 PT - ZERO
+chest		+1 PT - ZERO
+choice		+1 PT - ZERO
+circuit		+1 PT - ZERO
+cleared		+1 PT - ZERO
+clue		+1 PT - ZERO
+coat		+1 PT - ZERO
+code		+0 YT
+coke		+3 YT
+cole		+1 YT - ZERO
+come		+4 PT
+coming		+1 YT - ZERO
+comma		+-9 YT
+common		+-7 PT
+computer		+1 PT - ZERO
+conscience		+1 PT - ZERO
+cool		+1 PT - ZERO
+could		+9 PT
+creating		+1 YT
+credit		+1 PT - ZERO
+d		+2 YT - ZERO
+day		+-13 PT
+dead		+1 YT - ZERO
+deaf		+2 PT - ZERO
+dealt		+1 PT - ZERO
+death		+1 PT - ZERO
+declared		+9 YT
+def		+4 YT
+define		+8 YT
+definitely		+2 PT
+depth		+1 YT - ZERO
+describe		+1 PT - ZERO
+describes		+1 YT - ZERO
+desk		+1 PT - ZERO
+deverill		+1 PT - ZERO
+didn't		+4 PT
+division		+1 PT - ZERO
+do		+30 YT
+does		+9 YT
+doesn't		+2 YT
+doing		+8 PT
+domain		+1 YT - ZERO
+done		+16 YT
+door		+1 PT - ZERO
+dot		+1 YT - ZERO
+draw		+-22 PT
+dysfunction		+2 PT - ZERO
+earlier		+1 PT - ZERO
+earth		+1 PT - ZERO
+easy		+2 YT
+eat		+3 YT - ZERO
+economy		+1 PT - ZERO
+eight		+2 PT - ZERO
+empty		+-15 PT
+end		+6 PT
+ended		+1 PT - ZERO
+entire		+5 YT
+eps		+1 YT - ZERO
+equal		+3 YT
+error		+1 YT
+errors		+1 PT - ZERO
+even		+-45 PT
+event		+1 PT - ZERO
+every		+3 PT
+everybody		+6 YT
+exactly		+-1 YT
+eye		+1 PT - ZERO
+fact		+1 YT - ZERO
+false		+2 YT - ZERO
+fancy		+1 PT - ZERO
+file		+2 YT - ZERO
+files		+1 PT - ZERO
+finally		+1 YT
+find		+7 YT
+finish		+-7 YT
+fire		+1 PT - ZERO
+first		+17 PT
+fix		+3 YT
+fly		+1 PT - ZERO
+food		+4 YT
+foot		+1 PT - ZERO
+for		+40 PT
+forward		+1 YT - ZERO
+four		+-2 PT
+fpy		+1 YT - ZERO
+frenchified		+1 PT - ZERO
+fridge		+-10 YT
+friend		+1 PT - ZERO
+from		+-105 PT
+fruit		+1 PT - ZERO
+function		+97 YT
+functional		+1 PT - ZERO
+functioned		+1 PT - ZERO
+functions		+32 YT
+garbage		+1 YT - ZERO
+gave		+1 YT - ZERO
+gentleman		+-16 YT
+gentlemen		+-1 YT
+get		+41 YT
+gets		+1 YT - ZERO
+give		+10 PT
+globally		+4 PT
+globals		+1 YT - ZERO
+go		+29 YT
+gobbledygook		+1 PT - ZERO
+going		+79 PT
+gone		+-4 PT
+good		+11 PT
+got		+10 PT
+gotten		+1 YT
+growth		+1 YT - ZERO
+guards		+1 PT - ZERO
+guess		+-5 PT
+handle		+1 PT - ZERO
+has		+13 PT
+hasn't		+1 YT - ZERO
+hate		+1 YT - ZERO
+have		+80 YT
+he		+4 PT
+header		+1 YT - ZERO
+heads		+1 YT - ZERO
+heard		+1 PT - ZERO
+hearing		+1 PT - ZERO
+hell		+1 YT - ZERO
+hell's		+1 YT - ZERO
+help		+1 PT - ZERO
+here's		+10 YT
+hi		+1 PT - ZERO
+highlight		+2 YT
+him		+0 PT
+his		+3 PT - ZERO
+hold		+1 PT - ZERO
+hole		+1 PT - ZERO
+holy		+1 YT - ZERO
+homework		+-121 PT
+homeworks		+4 YT
+hop		+-7 YT
+house		+1 PT - ZERO
+how		+23 YT
+however		+1 PT - ZERO
+i		+-56 PT
+i'll		+1 YT
+i'm		+14 YT
+i've		+-2 PT
+id		+1 YT - ZERO
+idea		+4 PT
+if		+29 YT
+in		+100 YT
+inaudible		+1 PT - ZERO
+indentation		+1 YT - ZERO
+information		+1 PT
+inner		+1 PT - ZERO
+inputs		+1 YT
+inside		+-3 YT
+interesting		+-44 YT
+interworks		+1 YT - ZERO
+is		+153 PT
+issue		+-2 YT
+it		+136 YT
+it'll		+6 YT
+it's		+59 YT
+java		+1 YT - ZERO
+job		+2 PT
+just		+31 YT
+keep		+-157 PT
+keith		+-1 YT
+kind		+-1 YT
+klara's		+1 PT - ZERO
+know		+18 YT
+knows		+-2 PT
+l'espresso		+1 PT - ZERO
+language		+1 PT - ZERO
+languages		+-17 YT
+last		+5 PT
+law		+0 PT
+left		+2 YT
+less		+1 PT - ZERO
+let		+9 YT
+let's		+10 YT
+line		+12 PT
+list		+12 YT
+little		+8 PT
+local		+11 YT
+locally		+-2 YT
+logo		+1 PT - ZERO
+logothetis		+1 PT - ZERO
+long		+3 PT
+loops		+1 YT - ZERO
+lopoli		+1 YT - ZERO
+lost		+1 PT - ZERO
+love		+-1 PT
+low		+1 PT - ZERO
+lowest		+1 PT
+lupoli		+1 YT - ZERO
+ma'am		+1 YT - ZERO
+machine		+1 PT - ZERO
+machã©		+1 PT - ZERO
+made		+-1 PT
+main		+39 YT
+maine		+2 YT
+maintenance		+1 YT - ZERO
+malfunction		+1 PT - ZERO
+man		+-1 PT
+mansion		+1 PT - ZERO
+many		+9 PT
+mark		+1 PT - ZERO
+marker		+1 YT
+matinenga		+1 PT - ZERO
+max		+3 PT
+maxim		+1 YT - ZERO
+may		+-46 PT
+me		+33 YT
+mean		+10 PT
+meaning		+1 YT
+media		+1 PT - ZERO
+mel		+1 PT - ZERO
+men		+1 YT
+mental		+1 YT - ZERO
+menu		+4 YT
+met		+1 PT - ZERO
+min		+1 YT - ZERO
+moment		+-1 PT
+more		+0 PT
+most		+5 YT
+move		+-7 PT
+moving		+4 YT - ZERO
+music		+3 YT - ZERO
+must		+1 PT - ZERO
+named		+-1 PT
+national		+1 PT - ZERO
+nbc		+1 PT - ZERO
+need		+7 YT
+never		+1 PT
+nine		+2 PT - ZERO
+no		+19 PT
+not		+40 YT
+notes		+2 YT
+nother		+1 PT - ZERO
+nothing		+3 YT
+notice		+7 YT
+noticeably		+1 YT - ZERO
+now		+46 PT
+number		+10 YT
+numerical		+1 YT - ZERO
+nurses		+1 PT - ZERO
+obscene		+-143 YT
+of		+88 YT
+off		+-1 YT
+offer		+1 YT - ZERO
+officer		+3 PT
+oh		+5 YT
+ok		+24 PT - ZERO
+okay		+31 YT - ZERO
+olufsen		+1 PT - ZERO
+on		+34 PT
+once		+-14 PT
+one		+67 PT
+one's		+1 YT - ZERO
+only		+13 YT
+opening		+1 PT - ZERO
+or		+25 PT
+order		+6 YT
+originally		+-45 YT
+our		+4 PT
+output		+1 PT - ZERO
+outputs		+2 YT
+over		+15 YT
+own		+1 YT
+panopto		+1 PT - ZERO
+parentheses		+1 PT
+parenthesis		+2 YT - ZERO
+pass		+3 YT
+passed		+1 PT - ZERO
+paste		+-15 PT
+pastes		+1 YT - ZERO
+pay		+2 PT - ZERO
+peering		+1 YT - ZERO
+pieces		+-3 YT
+play		+1 PT - ZERO
+plunket		+1 PT - ZERO
+plus		+1 YT - ZERO
+poco		+1 YT - ZERO
+polling		+2 PT - ZERO
+poly		+1 YT - ZERO
+predicate		+1 YT - ZERO
+pretty		+1 YT - ZERO
+prince		+5 PT
+princesse		+1 PT - ZERO
+print		+4 YT
+print's		+1 PT - ZERO
+printed		+1 PT - ZERO
+prints		+6 YT - ZERO
+probably		+8 YT
+problems		+-12 YT
+program		+13 YT
+programing		+8 PT - ZERO
+programming		+8 YT - ZERO
+pronounced		+1 PT - ZERO
+proof		+1 YT - ZERO
+prove		+1 PT - ZERO
+pulling		+1 PT - ZERO
+put		+-15 YT
+py		+1 YT - ZERO
+quality		+1 PT - ZERO
+re-look		+1 YT - ZERO
+read		+-1 PT
+really		+11 PT
+reasonable		+1 PT - ZERO
+redraw		+1 YT - ZERO
+referred		+1 PT - ZERO
+related		+1 YT - ZERO
+return		+31 YT
+returning		+-44 PT
+returns		+3 YT
+right		+42 PT
+running		+-4 YT
+russo		+1 YT - ZERO
+sarasohn		+1 PT - ZERO
+says		+7 PT
+scene		+1 PT - ZERO
+school		+3 PT - ZERO
+scope		+5 YT
+scopes		+1 YT - ZERO
+scores		+1 PT - ZERO
+sean		+3 YT - ZERO
+seat		+2 YT - ZERO
+second		+-3 YT
+section		+1 YT - ZERO
+security		+1 PT - ZERO
+see		+16 PT
+seeing		+1 YT - ZERO
+seen		+1 PT
+sends		+1 YT - ZERO
+seriously		+-3 YT
+set		+7 PT
+setup		+-3 YT
+seven		+1 YT - ZERO
+share		+1 PT - ZERO
+she's		+1 YT
+sheet		+1 YT - ZERO
+shorter		+1 PT - ZERO
+shortfalls		+1 PT - ZERO
+should		+8 PT
+show		+5 YT
+shower		+1 PT - ZERO
+showery		+1 YT - ZERO
+showing		+-8 PT
+sides		+1 PT - ZERO
+sierra		+1 YT - ZERO
+simply		+1 PT - ZERO
+single		+-1 PT
+sir		+17 YT
+six		+2 PT
+skip		+-2 YT
+so		+87 YT
+some		+22 YT
+something		+9 YT
+songs		+1 PT - ZERO
+sorry		+-18 YT
+sort		+2 PT
+sorted		+1 YT - ZERO
+squadrons		+1 PT - ZERO
+star		+1 PT - ZERO
+step		+3 PT
+still		+-63 YT
+story		+1 YT - ZERO
+stuff		+5 YT
+sure		+4 YT
+talk		+1 YT
+ten		+2 PT
+test		+1 YT
+thank		+-4 YT
+thanks		+1 PT - ZERO
+that		+176 YT
+that'll		+1 YT - ZERO
+that's		+60 PT
+the		+227 YT
+their		+5 PT
+them		+11 YT
+then		+39 YT
+there		+31 YT
+there's		+16 YT
+they		+7 YT
+they're		+5 YT
+thing		+5 YT
+think		+-11 PT
+thirty		+2 YT
+this		+-61 PT
+thousand		+-8 PT
+three		+7 PT
+thursday		+1 YT - ZERO
+time		+-3 PT
+to		+258 PT
+today		+2 PT
+together		+1 YT - ZERO
+tone		+1 PT - ZERO
+too		+-1 YT
+tool		+-22 YT
+toolboxes		+1 PT - ZERO
+town		+0 YT
+tried		+2 PT - ZERO
+true		+2 YT
+try		+1 YT
+two		+14 YT
+uh		+7 YT - ZERO
+um		+6 YT - ZERO
+umbc		+1 YT - ZERO
+underscore		+4 YT - ZERO
+understand		+0 PT
+us		+-12 PT
+used		+6 YT
+value		+25 YT
+values		+0 YT
+versus		+1 PT - ZERO
+very		+30 PT
+viewers		+1 PT - ZERO
+wait		+-141 YT
+walk		+1 YT - ZERO
+want		+15 PT
+was		+14 PT
+way		+8 YT
+we		+69 PT
+we'll		+4 YT
+we've		+1 YT
+went		+1 YT
+were		+6 YT
+what		+57 PT
+what's		+2 YT
+whatever		+3 PT
+when		+24 YT
+whenever		+1 YT
+who		+5 PT
+whoever		+2 YT
+whole		+-2 PT
+why		+15 PT
+will		+13 PT
+win		+1 PT - ZERO
+with		+35 YT
+within		+1 YT - ZERO
+word		+8 PT
+work		+-125 YT
+worked		+1 PT - ZERO
+would		+17 YT
+write		+1 YT - ZERO
+writing		+1 PT - ZERO
+written		+1 YT - ZERO
+wrong		+3 YT
+x		+-116 YT
+yeah		+-127 YT
+year		+1 PT - ZERO
+years		+-17 PT
+yep		+-3 YT
+yes		+32 YT
+you		+150 PT
+you've		+6 YT
+your		+27 YT
+zero		+-150 PT
